@@ -1,7 +1,7 @@
 # Miqueas (Sozhia) García González
 
 Hi! I'm Miqueas, 🏄🏻🌴Developer and cat lover💻😸. Now a days I`m studying at ULL, making things on C++ and petting some cats.
-![gifcatpc](https://media.giphy.com/media/3o6vY7kb1ySy3G2i08/giphy.gif)
+![gifcatpc](https://i.giphy.com/media/3o6vY7kb1ySy3G2i08/giphy.webp)
 
 <!--
 **Sozhia/Sozhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
