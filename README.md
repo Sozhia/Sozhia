@@ -3,6 +3,10 @@
 Hi! I'm Miqueas, 🏄🏻🌴Developer and cat lover💻😸. Now a days I`m studying at ULL, making things on C++ and petting some cats.
 ![gifcatpc](https://i.giphy.com/media/3o6vY7kb1ySy3G2i08/giphy.webp)
 
+- 🔭 I’m currently working as IT Technician at Alfran Archipiélago S.L.
+- 🌱 I’m currently learning C++ and SQL.
+- 📫 How to reach me: sozhia.business@gmail.com
+
 <!--
 **Sozhia/Sozhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
