@@ -3,9 +3,11 @@
 Hi! I'm Miqueas, 🏄🏻🌴Developer and cat lover💻😸. Now a days 🔭 I`m studying at ULL, making code go beep-boop and petting some cats. <br>
 ![gifcatpc](https://i.giphy.com/media/3o6vY7kb1ySy3G2i08/giphy.webp)
 
-- 🔭 I’m currently working on C++ tests and some BigData basics
-- 🌱 I’m currently learning C++ testing and python.
+- 🔭 I’m currently working on Java GUI
+- 🌱 I’m currently learning patterns stuff
 - 📫 How to reach me: sozhia.business@gmail.com
+- 👯 I’m looking to collaborate on astronomy stuff
+- ⚡ Fun fact: Aspie!
 
 <!--
 **Sozhia/Sozhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
