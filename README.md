@@ -6,7 +6,7 @@ Hi! I'm Miqueas, 🏄🏻🌴Developer and cat lover💻😸. Now a days 🔭 I`
 - 🔭 I’m currently working on Java GUI
 - 🌱 I’m currently learning patterns stuff
 - 📫 How to reach me: sozhia.business@gmail.com
-- 👯 I’m looking to collaborate on astronomy stuff
+- 👯 I’m looking to collaborate in astronomy software stuff
 - ⚡ Fun fact: Aspie!
 
 <!--
