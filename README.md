@@ -3,8 +3,8 @@
 Hi! I'm Miqueas, 🏄🏻🌴Developer and cat lover💻😸. Now a days 🔭 I`m studying at ULL, making code go beep-boop and petting some cats. <br>
 ![gifcatpc](https://i.giphy.com/media/3o6vY7kb1ySy3G2i08/giphy.webp)
 
-- 🔭 I’m currently working on Java GUI
-- 🌱 I’m currently learning patterns stuff
+- 🔭 I’m currently working on SonarQube, Maven & Genkins
+- 🌱 I’m currently learning Software Design Patterns
 - 📫 How to reach me: sozhia.business@gmail.com
 - 👯 I’m looking to collaborate in astronomy software stuff
 - ⚡ Fun fact: Aspie!
