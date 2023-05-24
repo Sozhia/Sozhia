@@ -17,7 +17,8 @@ Take a look at some of my notable projects:
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
 - 📧 Email: mqggonzalez@gmail.com
-- 💼 LinkedIn: [Miqueas García González](https://www.linkedin.com/in/miqueasgg/)
+- 💼 LinkedIn: [Miqueas García González](https://www.linkedin.com/in/miqueasgg/) <p>
+ 
 Thank you for visiting my profile! I'm excited to connect with fellow developers and contribute to the exciting world of software architecture and design.
 
 <!--
