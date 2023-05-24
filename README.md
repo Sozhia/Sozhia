@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm Miqueas García González, a passionate softwa
 - 🎓 I hold a degree in Software Architecture and have a strong foundation in Java and microservices.
 - 💼 I have experience working as a consultant, helping businesses design and implement software solutions.
 - 🌱 I am constantly expanding my knowledge by reading books on architecture, software creation, quality assurance, and design patterns.
-
+<!--
 ## Projects
 Take a look at some of my notable projects:
 
 - 🌐 Project Name 1: A web application built using Java and Spring Boot.
 - 🚀 Project Name 3: A microservices-based system using Java, Spring Cloud, and Docker.
-
+-->
 ## Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
